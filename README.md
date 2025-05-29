@@ -1,18 +1,18 @@
-# Personal Portfolio Website
+# JalenTechHub.github.io
+Welcome to my portfolio!
 
-## About
+This site highlights my achievements in cybersecurity, computer science, and software engineering. It’s a place for you to discover my projects, abilities, and advancements as I pursue a career in these areas.
 
-I created this website to showcase my skills, certifications, and projects in one place. It's meant to serve as my personal portfolio and resume online.
+What’s Contained:
 
-This site includes sections for:
-- My latest projects
-- Certifications I've earned
-- Events or experiences I’ve participated in
-- Contact information
+Projects: A compilation of practical projects showcasing my abilities and expertise.
 
-## Purpose
+About Me: Discover more regarding my path, ambitions, and dreams within the tech industry.
 
-The main reason I made this website is to have a professional online presence where I can direct potential employers, colleges, or anyone interested in my work. It's also a way for me to practice and improve my web development skills.
+Contact: Methods to reach out to me if you’re keen on my projects or partnerships.
+
+Reasons for Creating This: This portfolio is created for anyone who wants to delve into my work—whether you’re fellow developer, a recruiter, or simply someone curious. It acts as a venue to showcase my talents, concepts, and enthusiasm for technology. Technologies Utilized: HTML CSS JavaScript SCSS Feel free to explore, and don’t hesitate to reach out with feedback or questions.
+
 
 ## License
 
