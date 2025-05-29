@@ -1,16 +1,23 @@
-## Hi there 👋
+# Personal Portfolio Website
 
-<!--
-**JalenTechHub/JalenTechHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I created this website to showcase my skills, certifications, and projects in one place. It's meant to serve as my personal portfolio and resume online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This site includes sections for:
+- My latest projects
+- Certifications I've earned
+- Events or experiences I’ve participated in
+- Contact information
+
+## Purpose
+
+The main reason I made this website is to have a professional online presence where I can direct potential employers, colleges, or anyone interested in my work. It's also a way for me to practice and improve my web development skills.
+
+## License
+
+All rights reserved.
+
+Copyright © 2025 Jalen Joseph.
+
+This project and its source code may not be copied, modified, redistributed, or used without explicit written permission.
